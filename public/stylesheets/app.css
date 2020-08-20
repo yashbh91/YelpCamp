@@ -1,0 +1,19 @@
+.showimage{
+	width:100%;
+}
+.thumbnail{
+	padding:0;
+}
+
+.delete-form{
+	display:inline;
+	border:none;
+}
+.trash{
+	color:red;
+	float:right;
+}
+.cmt-btn{
+	float:right;
+}
+
